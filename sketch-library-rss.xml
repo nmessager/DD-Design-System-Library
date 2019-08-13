@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Delta Dore Design System Library</title>
+		<description>This is a collection of Sketch resources for designers to build Delta Dore user experiences.</description>
+		<image>
+			<url>
+				https://frbon-sv0083.deltadore.bzh/UX-Team/DD-Design-System-Library/blob/master/sketch-library-preview.png
+			</url>
+			<title>Delta Dore Design System Library</title>
+		</image>
+		<generator>Sketch</generator>
+		<item>
+			<title>Delta Dore Design System Library</title>
+			<pubDate>Fri, 26 Jul 2019 14:55:00 GMT </pubDate>
+			<enclosure url="https://frbon-sv0083.deltadore.bzh/UX-Team/DD-Design-System-Library-dist/blob/master/DD-Design-System-Library.sketch" type="application/octet-stream" sparkle:version="4.3.0"/>
+		</item>
+	</channel>
+</rss>
